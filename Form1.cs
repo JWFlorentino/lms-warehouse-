@@ -32,7 +32,7 @@ namespace FTPupload
         {
             try
             {
-                SqlConnection _DBCon = new SqlConnection("Data Source=12.124.18.34,121;Initial Catalog=test;User Id=polo;Password=toets2;");
+                SqlConnection _DBCon = new SqlConnection("Data Source=12.124.18.34,121;Initial Catalog=test;User Id=polo;Password=toets3;");
                 SqlCommand _DBCommand = new SqlCommand("[dbo].[repCustDelStatusPAGorder]", _DBCon);
                 _DBCommand.CommandType = CommandType.StoredProcedure; _DBCommand.CommandTimeout = 600000;
                 _DBCon.Open(); SqlDataAdapter da = new SqlDataAdapter(_DBCommand); DataTable dt = new DataTable(); da.Fill(dt); _DBCon.Close();
