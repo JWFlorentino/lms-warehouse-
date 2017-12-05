@@ -1,4 +1,4 @@
-﻿using System;
+﻿using System;//test
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -65,6 +65,7 @@ namespace FTPupload
             catch(Exception ex)
             {
                 MessageBox.Show(ex.ToString());
+		//check
             }
         }
     }
