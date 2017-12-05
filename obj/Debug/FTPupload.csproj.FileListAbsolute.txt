@@ -1,0 +1,8 @@
+C:\Users\Dell\Documents\Visual Studio 2008\Projects\FTPupload\FTPupload\bin\Debug\FTPupload.exe
+C:\Users\Dell\Documents\Visual Studio 2008\Projects\FTPupload\FTPupload\bin\Debug\FTPupload.pdb
+C:\Users\Dell\Documents\Visual Studio 2008\Projects\FTPupload\FTPupload\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2008\Projects\FTPupload\FTPupload\obj\Debug\FTPupload.Form1.resources
+C:\Users\Dell\Documents\Visual Studio 2008\Projects\FTPupload\FTPupload\obj\Debug\FTPupload.Properties.Resources.resources
+C:\Users\Dell\Documents\Visual Studio 2008\Projects\FTPupload\FTPupload\obj\Debug\FTPupload.csproj.GenerateResource.Cache
+C:\Users\Dell\Documents\Visual Studio 2008\Projects\FTPupload\FTPupload\obj\Debug\FTPupload.exe
+C:\Users\Dell\Documents\Visual Studio 2008\Projects\FTPupload\FTPupload\obj\Debug\FTPupload.pdb
